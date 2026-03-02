@@ -29,4 +29,13 @@ The system:
 - docs → architecture documentation
 
 ## Status
+
 Project setup in progress.
+
+## Live Demo
+
+Google Sheets Dashboard:
+## Live Demo
+
+Google Sheets Dashboard:
+https://docs.google.com/spreadsheets/d/1WcYEBjhPHMKEVuaMEDbW1qWigXXGpDQX1ft3fw-dchM/edit?usp=sharing
