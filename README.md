@@ -1,43 +1,66 @@
 # Automated Student Performance Tracker
 
 ## Overview
-This project automates student performance tracking using Google Sheets and Python.
 
-The system:
-- Cleans student data automatically
-- Validates entries
-- Generates performance KPIs
-- Creates analytics reports
+The Automated Student Performance Tracker is a data automation system that collects, cleans, analyzes, and visualizes student performance data using Google Sheets automation and Python analytics.
+
+The system validates student data, generates performance KPIs, and produces analytics reports automatically.
+
+---
 
 ## Features
-- Google Sheets automation using Apps Script
-- Data cleaning pipeline
-- KPI dashboard
-- Python analytics
-- Report generation
+
+* Automated data validation using Google Apps Script
+* Data cleaning pipeline (RawData → CleanData)
+* Performance KPI dashboard
+* Python analytics and reporting
+* Visualization of student performance
+* End-to-end data processing workflow
+
+---
 
 ## Tech Stack
-- Google Apps Script
-- Python
-- Pandas
-- Google Sheets
 
-## Project Structure
-- apps_script → Google Sheets automation
-- python → data processing scripts
-- sample_data → test dataset
-- docs → architecture documentation
+* Google Sheets
+* Google Apps Script (JavaScript)
+* Python
+* Pandas
+* Matplotlib
 
-## Status
+---
 
-Project setup in progress.
+## System Workflow
+
+Raw Data → Data Cleaning → KPI Dashboard → Python Analytics
+
+---
 
 ## Live Demo
 
 Google Sheets Dashboard:
 https://docs.google.com/spreadsheets/d/1WcYEBjhPHMKEVuaMEDbW1qWigXXGpDQX1ft3fw-dchM/edit?usp=sharing
 
+---
+
 ## Dashboard Preview
+
 ![Dashboard](screenshots/dashboard.png)
 
+---
+
+## Project Structure
+
+* apps_script → Google Sheets automation
+* python → data processing scripts
+* sample_data → test dataset
+* docs → architecture documentation
+* screenshots → dashboard preview
+
+---
+
+## Future Improvements
+
+* Automatic Google Sheets to Python integration
+* Scheduled data processing
+* Machine learning performance prediction
 
